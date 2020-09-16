@@ -1,0 +1,3 @@
+[submodule "XCLib"]
+	path = XCLib
+	url = https://github.com/X39/XCLib
